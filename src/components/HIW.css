@@ -1,0 +1,30 @@
+.hiw {
+  /* width: 270px;
+  height: 190px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: space-around;
+  box-sizing: border-box;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.hiw * {
+  margin-bottom: 3px;
+}
+.hiw h3 {
+  font-style: normal;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 30px;
+  color: #121420;
+}
+.hiw p {
+  font-style: normal;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: rgba(27, 36, 50, 0.8);
+}
