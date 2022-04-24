@@ -107,6 +107,7 @@
   }
   .howItWorks .howItWorksOne {
     width: 100vw;
+padding: 1rem;
   }
   .howItWorks .howItWorksTwo {
     display: none;
